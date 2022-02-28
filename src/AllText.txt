@@ -1,4 +1,33 @@
-Home Section:
+Theme Variables👇
+export const light = {
+
+    body:"#fff",
+    text:"#202020",
+    bodyRgba : "255, 255, 255",
+    textRgba:"32,32,32",
+
+    carouselColor: '#EEEDDE',
+
+    fontxs:'0.75em',
+    fontsm:'0.875em',
+    fontmd:'1em', // 1em = 16px
+    fontlg:'1.25em',
+    fontxl:'2em',
+    fontxxl:'3em',
+    fontxxxl:'4em',
+
+    fontButton:'0.875em',
+
+
+    navHeight: '5rem',
+    
+    
+}
+
+
+
+
+Home Section👇
 
 Discover A New Era Of Cool
 NFTs.
@@ -6,14 +35,14 @@ Collectible items.
 Ape Killers!
 
 
-About Section:
+About Section👇
 
 - Welcome To The Weirdos Club.
 - The WEIRDOS CLUB is a private collection of NFTs—unique digital collectibles. The Weirdos are stored as ERC-721 tokens on the Ethereum blockchain and hosted on IPFS.
 - With more than 200+ hand drawn traits, each NFT is unique and comes with a membership to an exclusive group of successful investors. Join an ambitious ever-growing community with multiple benefits and utilities.
 - Join Our Discord
 
-RoadMap Section:
+RoadMap Section👇
 
 - Grand Opening
 - Great Benefits
@@ -23,7 +52,7 @@ RoadMap Section:
 
 - Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat.
 
-Faq Section: 
+Faq Section👇 
 
 WHERE CAN I VIEW MY NFTS?
 Once minted or bought simply connect to your OpenSea account to view your NFTs.
