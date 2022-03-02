@@ -7,7 +7,7 @@ https://the-weirdos.vercel.app/ <br />
 
 If you want to learn how to create it please follow below tutorial👇: <br />
 
-https://youtu.be/q1EAbaiZUYA <br />
+https://youtu.be/4UKWkUyxjQE <br />
 
 ### Images of The NFT Collection Website:
 ![HOME](https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code/blob/main/Home%20-%20Desktop.png)
