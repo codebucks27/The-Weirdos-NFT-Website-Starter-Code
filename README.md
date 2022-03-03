@@ -3,7 +3,7 @@
 This repository contains starter code for NFT Collection Website in ReactJS. <br />
 
 View Demo👇: <br />
-https://the-weirdos.vercel.app/ <br />
+https://the-weirdos.netlify.app/ <br />
 
 If you want to learn how to create it please follow below tutorial👇: <br />
 
