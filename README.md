@@ -9,7 +9,7 @@ If you want to learn how to create it please follow below tutorial👇: <br />
 
 https://youtu.be/edr2o59Twrs <br />
 
-### NTOE:  <br />
+### NOTE:  <br />
 There is one change in the Button.js File.  <br />
 Wrap Btn inside Link component like below for the link to work.
 ```
