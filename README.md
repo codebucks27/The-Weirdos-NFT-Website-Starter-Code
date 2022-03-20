@@ -9,6 +9,15 @@ If you want to learn how to create it please follow below tutorial👇: <br />
 
 https://youtu.be/edr2o59Twrs <br />
 
+### NTOE:  <br />
+There is one change in the Button.js File.  <br />
+Wrap Btn inside Link component like below for the link to work.
+```
+<a href={link} aria-label={text} target="_blank" rel="noreferrer" >
+<Btn>{text}</Btn>
+</a>
+```
+
 ### Images of The NFT Collection Website:
 ![HOME](https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code/blob/main/Home%20-%20Desktop.png)
 ![ABOUT](https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code/blob/main/Home-2%20-%20Desktop.png)
