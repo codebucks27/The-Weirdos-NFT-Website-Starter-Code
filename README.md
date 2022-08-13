@@ -13,6 +13,7 @@ If you want to learn how to create it please follow below tutorial👇: <br />
 https://youtu.be/edr2o59Twrs <br />
 [![YouTube Video Views](https://img.shields.io/youtube/views/edr2o59Twrs?style=social)](https://youtu.be/edr2o59Twrs)<br />
 
+⭐⭐⭐⭐ This repo is nominated in [Top How To Nft Open-Source Projects on Github](https://gitclone.dev/top-how-to-nft-open-source-projects-on-github/).
 
 ### NOTE:  <br />
 There is one change in the Button.js File.  <br />
