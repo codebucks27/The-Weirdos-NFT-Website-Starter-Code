@@ -1,0 +1,31 @@
+import React from 'react'
+
+const Section = styled.section'
+width: 100vw;
+background-color: ${props => props/theme.body};
+'
+const NavBar = Styled.nav'
+display: flex;
+justify-content: space-between;
+align-items:center;
+
+width: 85%;
+height: ${props => props.theme.navHeight};
+margin: 0 auto;
+'
+
+const Navigation = () => {
+	return (
+		
+		<Section>
+			<NavBar>
+				<Logo />
+				<h2>Menu</h2>
+				<h2>Button</h2>
+
+			</Navbar>
+		</Section>
+	)
+}
+
+export default Navigation
