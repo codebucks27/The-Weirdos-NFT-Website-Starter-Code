@@ -17,7 +17,7 @@ cursor: pointer;
 transition: all 0.2s ease;
 position: relative;
 &:hover{
-  transform: scale(0.9);
+    transform: scale(0.9);
 }
 
 &::after{
@@ -41,11 +41,9 @@ position: relative;
 
 const Button = ({text, link}) => {
   return (
-    <Btn>
-<a href={link} aria-label={text} target="_blank" rel="noreferrer" >
-{text}
+    <a href={'https://discord.gg/Q87eT73pPX'} aria-label={text} target="_blank" rel="noreferrer" >
+<Btn>{'Discord'}</Btn>
 </a>
-    </Btn>
   )
 }
 

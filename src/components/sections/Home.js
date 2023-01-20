@@ -1,13 +1,13 @@
 import React from 'react'
 import styled from 'styled-components'
-import TypeWhiterText from '../TypeWriterText'
+import TypeWriterText from '../TypeWriterText'
 
 
 const Section= styled.section`
 min-height: ${props => `calc(100vh - ${props.theme.navHeight})`    };
 width: 100vw;
 position: relative;
-background-color: ${props => props.theme.text};
+background-color: ;
 `
 
 const Container = styled.div`
@@ -32,7 +32,7 @@ const Home = () => {
   return (
     <Section>
       <Container>
-      <Box>  <TypeWhiterText />  </Box>  
+      <Box>  <TypeWriterText />  </Box>  
       <Box>  <h1>video</h1> </Box>  
 
         

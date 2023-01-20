@@ -1,5 +1,5 @@
 import React from 'react';
-import styled from 'styled-components'
+import styled from 'styled-components';
 import Typewriter from 'typewriter-effect';
 
 const Title = styled.h2`
@@ -38,22 +38,24 @@ const TypeWriterText = () => {
   return (
     <>
     <Title>
-      Discover A New Era of Cool 
-        <Typewriter
-          options= {{
-            autoStart: true,
-            loop: true,
-          }}
-          onInit={(typewriter) => {
-            typewriter
-            .typeString('Cool')
-            .pauseFor(1000)
-            .deleteAll()
+      Discover the new way to learn in community 
+      <Typewriter
+  onInit={(typewriter) => {
+    typewriter.typeString('at last count 466 people learning')
+      .callFunction(() => {
+        console.log('String typed out!');
+      })
+      .pauseFor(2500)
+      .deleteAll()
+      .callFunction(() => {
+        console.log('All strings were deleted');
+      })
+      .start();
   }}
 />
 
 </Title>
-<SubTitle>Bored op Apes? Try Something New.</SubTitle>
+<SubTitle>Be your teacher, I'm self-taught.</SubTitle>
 </>
   );
 };

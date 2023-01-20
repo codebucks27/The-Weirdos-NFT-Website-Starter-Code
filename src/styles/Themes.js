@@ -1,9 +1,9 @@
 //This file contains variables for different themes
 
 export const light = {
- 
+
     body:"#fff",
-    text:"#202020", // black shade
+    text:"#202020",
     bodyRgba : "255, 255, 255",
     textRgba:"32,32,32",
 
@@ -21,6 +21,8 @@ export const light = {
 
 
     navHeight: '5rem',
+    
+    
 }
 
 
