@@ -7,7 +7,7 @@
 This repository contains starter code for NFT Collection Website in ReactJS. <br />
 
 For the **Demo** and **Final Code** checkout this link👇: <br />
-<a href="https://devdreaming.com/videos/create-nft-collection-website-reactjs#overview" target="_blank" rel="dofollow">Checkout this mobile responsive NFT collection website built with ReactJS</a> <br />
+<a href="https://devdreaming.com/videos/create-nft-collection-website-reactjs#overview" target="_blank">Checkout this mobile responsive NFT collection website built with ReactJS</a> <br />
 
 If you want to learn how to create it please follow below tutorial👇: <br />
 https://youtu.be/edr2o59Twrs <br />
