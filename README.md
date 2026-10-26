@@ -6,8 +6,9 @@
 
 This repository contains starter code for NFT Collection Website in ReactJS. <br />
 
-For the **Demo** and **Final Code** checkout this link👇: <br />
-<a href="https://devdreaming.com/videos/create-nft-collection-website-reactjs#overview" target="_blank">Checkout this mobile responsive NFT collection website built with ReactJS</a> <br />
+The **Final Code** is in [The Weirdos NFT Website](https://github.com/codebucks27/The-weirdos-NFT-Website). No purchase is required for the planned free source release. The final repository is currently private while release preparation is reviewed, so the link may return 404 until its owner makes it public.
+
+This starter preserves the tutorial's original Create React App setup. The completed project now uses Bun and Vite; follow the README in the repository you are running.
 
 If you want to learn how to create it please follow below tutorial👇: <br />
 https://youtu.be/edr2o59Twrs <br />
@@ -37,6 +38,8 @@ Character Figures: https://bigheads.io/ <br />
 Fonts: https://fontsource.org/ <br />
 Svg Icons From: https://icons8.com & https://freesvg.org/   <br />
 
+This repository currently has no LICENSE file. Free access to the source does not establish a reuse license; a license for the original code still needs to be selected by its owner. Check the separate terms for character artwork, icons, fonts, and dependencies before reuse.
+
 ### External Libraries used in this project: 
 
 [styled-components](https://styled-components.com/docs/advanced) <br />
@@ -48,6 +51,8 @@ Svg Icons From: https://icons8.com & https://freesvg.org/   <br />
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Install this starter's dependencies with `npm ci` before running the scripts below. Its historical `package-lock.json` is separate from the completed project's `bun.lock`.
 
 ## Available Scripts
 
